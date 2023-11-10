@@ -1,0 +1,14 @@
+.hr{
+    width: 560px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.img-myself{
+    display: flex;
+    margin-top: 30px;
+
+}
+.footer{
+    max-width: 100%;
+}
