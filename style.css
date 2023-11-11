@@ -9,6 +9,9 @@
     margin-top: 30px;
 
 }
-.footer{
+.container, .container-md, .container-sm {
     max-width: 100%;
+}
+.my-5 {
+    margin-top: 3rem!important;
 }
